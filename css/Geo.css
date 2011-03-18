@@ -1,0 +1,16 @@
+/* @override http://sehop/Geo/css/Geo.css */
+
+#gmap div div div div.gmnoprint {
+	height: 400px;
+}
+
+#bubble-information div.image img {
+	padding: 5px;
+	margin: 5px 0;
+	background: #eee;
+	border: 1px solid #ccc;
+}
+
+#gmap div.gmnoprint h1 {
+	margin: 0;
+}
